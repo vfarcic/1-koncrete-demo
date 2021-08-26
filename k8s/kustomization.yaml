@@ -1,0 +1,6 @@
+commonLabels:
+  app: devops-toolkit
+resources:
+- deployment.yaml
+- ing.yaml
+- service.yaml

@@ -1,0 +1,4 @@
+commonLabels:
+  app: devops-toolkit
+resources:
+- devops-toolkit.yaml
